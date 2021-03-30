@@ -4,4 +4,4 @@
 - react-icons
 - styled-conponents
 
-![React-TodoList](https://user-images.githubusercontent.com/68048248/112842516-96ac2100-90dc-11eb-80b5-fd659e391ff9.gif)
+![React-TodoList2](https://user-images.githubusercontent.com/68048248/112917432-909a5c80-913d-11eb-9011-99f0315ea07c.gif)
