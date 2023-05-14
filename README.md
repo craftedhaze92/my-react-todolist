@@ -1,9 +1,10 @@
 # 리액트로 만든 Todo-List
 
-사용한 라이브러리
+## 사용한 라이브러리
 - react-icons
 - styled-conponents
 
+## About
 - styled-conponents를 사용한 UI 구현
 - Context API Hook을 사용한 상태관리
 
